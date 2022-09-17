@@ -19,12 +19,15 @@ function generatePassword () {
     var chooseLength = (prompt("How many characters would you like your password to be?"));
   }
 
- alert("Great! Now you'll select which parameters you'd like your password to contain.")
+ alert("Great! Now you'll select which characters you'd like your password to contain.")
 
   var chooseNumber = (confirm("Would you like your password to contain numbers?"));
   var chooseCharacter = (confirm("Would you like your password to contain special characters?"));
   var chooseLowercase  = (confirm("Would you like your password to contain lowercase letters?"));
   var chooseUppercase  = (confirm("Would you like your password to contain uppercase letters?"));
+
+  if ((chooseNumber = false) && (chooseCharacter = false) && (chooseLowercase = false) && (chooseUppercase = false)) ;
+  {alert("You must selecct at least one character type.")}
 
 // Write password to the #password input
 function writePassword() {
