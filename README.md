@@ -24,16 +24,16 @@ Create a random password generator that provides you with a new, secure password
 ## Sources
 
 Stock images pulled from Pexel.com
-[Site](https://www.w3schools.com "W3Schools")
-[Site](https://stackoverflow.com/ "Stack Overflow")
+[W3Schools Site](https://www.w3schools.com "W3Schools")
+[StackOverflow Site](https://stackoverflow.com/ "Stack Overflow")
 
 ## Author
 
 **Lisa Erickson**
 
-- [Profile](https://github.com/lisaericksoncoding "Lisa Erickson")
-- [LinkedIn](https://www.linkedin.com/in/lisalerickson/ "Lisa Erickson")
-- [Email](mailto:erickson.l.lisa@gmail.com?subject=Feedback "Feedback")
+- [Github Profile](https://github.com/lisaericksoncoding "Lisa Erickson")
+- [LinkedIn Profile](https://www.linkedin.com/in/lisalerickson/ "Lisa Erickson")
+- [Email for Feedback](mailto:erickson.l.lisa@gmail.com?subject=Feedback "Feedback")
 
 ## License
 
