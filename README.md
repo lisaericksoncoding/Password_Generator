@@ -16,8 +16,8 @@ Create a random password generator that provides you with a new, secure password
 
 ## Built With
 
-- HTML (provided code)
-- CSS (provided code)
+- HTML
+- CSS
 - Javascript
 - Visual Studio Code
 
